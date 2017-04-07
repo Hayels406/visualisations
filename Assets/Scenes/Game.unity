@@ -28065,7 +28065,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -855175274
+  randomSeed: 1821103679
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -106271,6 +106271,7 @@ MonoBehaviour:
   sheepBehaviour: 0
   nOfSheep: 100
   simulationTime: 150
+  speedup: 1
   sheepPrefab: {fileID: 1797672417880888, guid: 881f4b54bdd20724e8ebbb9e58ec9b84,
     type: 2}
   precision: 10
